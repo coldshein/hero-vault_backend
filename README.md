@@ -55,13 +55,13 @@ This project uses Jest for testing. To run tests for the main controllers and ro
 ## Project Structure
 
 -   **backend/** - Backend API and database connection to MongoDB.
--   **frontend/** - Frontend interface, built with React and Next.js.
+-   **frontend/** - Frontend interface, built with React.js.
 
 ## Technologies Used
 
--   **Frontend:** React, Redux Toolkit, TypeScript, Material-UI, TailwindCSS.
--   **Backend:** Node.js, Express, MongoDB, Jest.
--   **Other tools:** Axios.
+-   **Frontend:** React.js, Redux Toolkit, TypeScript, Material-UI, TailwindCSS, Vite.
+-   **Backend:** Node.js, Express.js, MongoDB.
+-   **Other tools:** Axios, Mongoose, UUID, Multer.
 
 ## Key Features
 
