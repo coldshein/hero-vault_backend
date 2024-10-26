@@ -1,7 +1,6 @@
-[
 # Hero Vault (BACKEND PART)
 
-**Hero Vault** this is the backend part of a project designed to manage superheroes. It allows users to create, view, and edit information about heroes. This project is built with **React** and **Node.js**, with **MongoDB** as the database.
+**Hero Vault** This is the backend part of a project designed to manage superheroes. It allows users to create, view, and edit information about heroes. This project is built with **React** and **Node.js**, with **MongoDB** as the database.
 
 ## Prerequisites
 
